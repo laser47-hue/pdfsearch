@@ -1,2 +1,2 @@
 # pdfsearch
-Search a pdf using ai
+Search a pdf using semantic search
